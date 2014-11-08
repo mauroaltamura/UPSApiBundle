@@ -3,10 +3,9 @@ UPSApiBundle
 
 A Symfony2 bundle to integrate with the UPS Api. This uses the [UPS-API] library. This is in active development right now.
 
-[![Build Status](https://travis-ci.org/hautelook/AliceBundle.png?branch=master)](https://travis-ci.org/hautelook/AliceBundle)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/hautelook/AliceBundle/badges/quality-score.png?s=0b9ff0ac44085bc49fdb98f4ea1fec2fea918a39)](https://scrutinizer-ci.com/g/hautelook/AliceBundle/)
-[![Code Coverage](https://scrutinizer-ci.com/g/hautelook/AliceBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hautelook/AliceBundle/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/1169e133-3d02-4ba8-a87e-f152c620f8b5/mini.png)](https://insight.sensiolabs.com/projects/1169e133-3d02-4ba8-a87e-f152c620f8b5)
+[![Build Status](https://travis-ci.org/hautelook/UPSApiBundle.svg?branch=master)](https://travis-ci.org/hautelook/UPSApiBundle)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/?branch=master)
 
 ## Introduction
 
