@@ -6,7 +6,7 @@ A Symfony2 bundle to integrate with the UPS Api. This uses the [UPS-API][ups-lib
 [![Build Status](https://travis-ci.org/hautelook/UPSApiBundle.svg?branch=master)](https://travis-ci.org/hautelook/UPSApiBundle)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hautelook/UPSApiBundle/?branch=master)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/05b785ff-8630-4682-9896-70346897bc24/big.png)](https://insight.sensiolabs.com/projects/05b785ff-8630-4682-9896-70346897bc24)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/05b785ff-8630-4682-9896-70346897bc24/mini.png)](https://insight.sensiolabs.com/projects/05b785ff-8630-4682-9896-70346897bc24)
 
 ## Introduction
 
