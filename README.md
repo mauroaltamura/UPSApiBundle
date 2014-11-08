@@ -1,5 +1,5 @@
 UPSApiBundle
-===========
+============
 
 A Symfony2 bundle to integrate with the UPS Api. This uses the [UPS-API] library. This is in active development right now.
 
