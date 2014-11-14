@@ -8,3 +8,8 @@ framework:
     form: ~
     validation: ~
     session: ~
+
+hautelook_ups_api:
+    access_key: abc
+    user_id: def
+    password: ghi
