@@ -1,5 +1,5 @@
 {
-    "name": "hautelook/ups-api-bundle",
+    "name": "mauroaltamura/ups-api-bundle",
     "description": "Symfony2 Bundle that provides access to the UPS Api",
     "keywords": ["Symfony2", "UPS", "Quantum View", "Shipping", "Tracking", "Rate"],
     "type": "symfony-bundle",
@@ -13,8 +13,7 @@
     "require": {
         "php": ">=5.3.0",
         "symfony/framework-bundle": "~3.4",
-        "gabrielbull/ups-api": "~0.2",
-        "sensiolabs-de/deprecation-detector": "dev-master"
+        "gabrielbull/ups-api": "~0.2"
     },
     "require-dev": {
         "symfony/yaml": "~2.1",
